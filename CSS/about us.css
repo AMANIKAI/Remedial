@@ -1,0 +1,21 @@
+body{
+    background-color: darkgray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+h1{
+    color: blue;
+}
+
+h3{
+    color: blueviolet;
+}
+
+image{
+    margin-left: 5mm;
+    border-width:3mm;
+    border-style: solid;
+    padding:1%;
+    border-color: blue;
+}
